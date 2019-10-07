@@ -14,5 +14,5 @@ After you have included python in environment variables, just run the following 
 
 Make sure that you have all the files in same folder.
 
-
-
+**Here is a preview:**
+![Test Image 1](https://github.com/anchal27sri/SnakeGame/blob/master/sample_image.png)
